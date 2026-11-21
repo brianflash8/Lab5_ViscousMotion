@@ -1,0 +1,8 @@
+{
+  "name": "lab5-viscous-motion",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "sfml"
+  ],
+  "builtin-baseline": "93ad765c7b66ab9ce97469ec23a90b15c3a14ee5"
+}
